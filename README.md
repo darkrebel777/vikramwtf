@@ -1,6 +1,6 @@
 
 ```css
-┌[light@git]-(~)
+┌[vikram@git]-(~)
 └> mefetch
 ```
  
